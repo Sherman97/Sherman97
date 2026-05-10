@@ -49,6 +49,43 @@ Me gusta construir soluciones limpias, mantenibles y escalables, aplicando buena
 
 ---
 
+---
+
+## 💼 Últimas experiencias
+
+### 🧩 Desarrollador Full Stack
+
+Participé en el desarrollo y soporte de soluciones ERP y software hospitalario, implementando nuevas funcionalidades de acuerdo con requerimientos técnicos del cliente.
+
+**Principales aportes:**
+
+- Desarrollo y soporte de funcionalidades en aplicaciones construidas con **PHP, Laravel y Angular**.
+- Optimización de consultas en bases de datos relacionales para mejorar generación de reportes, impresiones y exportaciones.
+- Soporte técnico y mejora de rendimiento en sistemas empresariales.
+- Trabajo sobre soluciones orientadas a procesos administrativos y hospitalarios.
+
+**Tecnologías:** Laravel · Angular · PHP · PostgreSQL
+
+---
+
+### ⚙️ Desarrollador Backend
+
+Trabajé en diferentes proyectos web, incluyendo plataformas de medios digitales, sistemas frontend modernos e integraciones con servicios externos.
+
+**Principales aportes:**
+
+- Soporte y desarrollo de nuevas funcionalidades en proyectos construidos con **Laravel, Tailwind, Jetstream y Docker**.
+- Desarrollo sobre plataformas de periódicos usando **Symfony, Vanilla JS, Twig y Xalok CMS**.
+- Creación de proyectos frontend con **Angular 16**, aplicando buenas prácticas y estructuras escalables.
+- Integración de **Azure AD** para autenticación y autorización.
+- Consumo de APIs de **Google Maps Platform** para mediciones, búsqueda de lugares y gestión de datasets.
+- Implementación de **reCAPTCHA v2** y configuración de imágenes Docker.
+
+**Tecnologías:** Laravel · Symfony · Angular · Docker · Azure AD · Google Maps Platform · Tailwind · Twig
+
+---
+
+
 ## 🧩 Main Skills
 
 ```txt
@@ -59,3 +96,5 @@ DevOps         Docker · Git · GitHub · GitLab · CI/CD basics
 Cloud/APIs     Azure AD · Google Maps Platform · reCAPTCHA v2
 Architecture   MVC · Clean Architecture · Hexagonal Architecture
 Practices      Scrum · SDD · Technical documentation
+
+
