@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=180&section=header&text=Sherman97&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="./174915477495.jpeg" width="100%" alt="Banner Sherman97" />
+</div>
 
 # ⚔️ Sherman97
 
